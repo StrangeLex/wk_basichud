@@ -13,4 +13,6 @@ and have a config.lua for custom your hud
 
 ## Preview
 
-[click here](https://streamable.com/hn32uz)
+Video: [Streamable](https://streamable.com/hn32uz)
+
+Screenshot : ![click here](http://image.noelshack.com/fichiers/2022/19/7/1652636223-hud.jpg)
