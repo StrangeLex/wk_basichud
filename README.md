@@ -11,6 +11,10 @@ depuis plus simple et plus colorer, pas besoin d'etre un bon configurateur pour 
 You want a sample hud for your fivem server ? esx or not, with this script any thing is sample
 and have a config.lua for custom your hud
 
+# Comptability
+
+- Any FiveM script (ESX, QBCore, Framework ..)
+
 ## Preview
 
 Video: [Streamable](https://streamable.com/hn32uz)
