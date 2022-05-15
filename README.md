@@ -13,4 +13,4 @@ and have a config.lua for custom your hud
 
 ## Preview
 
-![click here](https://streamable.com/hn32uz)
+[!][](https://streamable.com/hn32uz)
